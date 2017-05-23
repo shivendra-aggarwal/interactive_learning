@@ -1,0 +1,12 @@
+{
+  "name": "interactive_learning",
+  "version": "1.0.0",
+  "description": "this app will give demonstrate usage of Mongodb, Express, ReactJS",
+  "main": "server.js",
+  "author": "Shivendra Aggarwal, Tarzen Chugh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongodb": "^2.2.27"
+  }
+}
